@@ -11,4 +11,7 @@ List of awesome open source apps built with Ruby on Rails.
 5. [Spree](https://github.com/spree/spree)
 6. [Redmine](https://github.com/redmine/redmine)
 7. [Solidus](https://github.com/solidusio/solidus)
+8. [railsdevs.com](https://github.com/joemasilotti/railsdevs.com)
+9. [rubygems.org](https://github.com/rubygems/rubygems.org)
+10. [Postal](https://github.com/postalserver/postal)
    
