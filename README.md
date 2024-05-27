@@ -14,4 +14,4 @@ List of awesome open source apps built with Ruby on Rails.
 8. [railsdevs.com](https://github.com/joemasilotti/railsdevs.com)
 9. [rubygems.org](https://github.com/rubygems/rubygems.org)
 10. [Postal](https://github.com/postalserver/postal)
-   
+11. [Feedbin](https://github.com/feedbin/feedbin)
